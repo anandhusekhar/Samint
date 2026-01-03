@@ -1,3 +1,253 @@
-#EXTM3U url-tvg="https://example.com/epg.xml"
-#EXTINF:-1 tvg-id="@AsianetNews" tvg-logo="Malayalam News" group-title="AsianetNews", @AsianetNews
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767483998/ei/_lVZaeXOEp-M77APqK-hkAE/ip/103.177.253.214/id/tXRuaacO-ZU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3AO7qKpizq9M0vDMU5g4T2OrYPnA5yjZ1tbihlFvfgKZTVL-vPVwRnumkugP3X4vEot5dyx2srR/spc/wH4Qq7ZkMcLqR_j5g1Or/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgf47HU8rfnte2O31tB228frClr-jUH6QSldTGnQ6OA4ICIGd01oTSln4iRNmw5X-iCXqOcvmT8gbSsbAgiO5w-1zi/file/index.m3u8
+#EXTM3U"
+#EXTINF:-1 tvg-id="SafariTV.in@SD" tvg-name="Safari" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAFARI_TV/images/LOGO_HD/image.png" group-title="Malayalam Entertainment",Safari TV
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KappaTV" tvg-name="Kappa TV" tvg-logo="https://yt3.googleusercontent.com/LiypNGD1uy_APDj0WCjcyffOzE03tbzsOzEz0F72beFS_3CFkobG8JS4iU7FO30tdJoVE_1t=s160-c-k-c0x00ffffff-no-rj" group-title="Malayalam Entertainment", Kappa TV
+https://cdn-3.pishow.tv/live/1123/master.m3u8
+#EXTINF:-1 tvg-id="KaumudyTV" tvg-name="Kaumudy TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mTP-Alm9ur8Msk_QNf5MUEGw9rYIPqlvmHOfUH_Sodu0M=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Malayalam Entertainment", Kaumudy TV
+https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MazhavilManorama" tvg-name="MazhavilManorama" tvg-logo="https://en.wikipedia.org/wiki/Mazhavil_Manorama#/media/File:Mazhavil_Manorama_Logo.png" group-title="Malayalam Entertainment", Mazhavil Manorama
+https://cdn-7.pishow.tv/live/1129/master.m3u8
+#EXTINF:-1 tvg-id="KairaliWe.in@SD" tvg-name="KairaliWe" tvg-logo="https://yt3.ggpht.com/r2F6NA3i4eUTGN8yY3dOUIEdUnQdDu11zDGiO1mDWyXk4H9uCBmpElaIdIb2a-BvJeOJE13r=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Malayalam Entertainment", Kairali We
+https://cdn-3.pishow.tv/live/1530/master.m3u8
+#EXTINF:-1 tvg-id="AmritaTV.in@SD" tvg-name="AmritaTV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lc41SLmKKTgccE82ZXf7Gd-4_vJGEZHJ2y7qA5iIcq3Rs=s160-c-k-c0x00ffffff-no-rj" group-title="Malayalam Entertainment",Amrita TV
+https://ddash74r36xqp.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="ZeeNewsMalayalam.in@SD" tvg-name="ZeeNewsMalayalam" tvg-logo="https://i.imgur.com/MePj7ET.png" group-title="Malayalam News",Zee News Malayalam
+https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
+#EXTINF:-1 tvg-id="DDMalayalam.in@SD" tvg-name="DDMalayalam" tvg-logo="https://yt3.googleusercontent.com/L8WMg-yCi3eliD8IOdszs1lr3iNPDToM1ttp8jAFkXHm199plqPc5P0y8Oi3mPXBtV9vFF3AZA=s160-c-k-c0x00ffffff-no-rj" group-title="Malayalam Entertainment",DD Malayalam
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/2.m3u8
+#EXTINF:-1 tvg-id="NT UAE" tvg-name="NT UAE" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ldzJhdhDOi2i4ivkQdMOMeYLecKI716gNlrLNpYmkkr2c=s900-c-k-c0x00ffffff-no-rj" group-title="Malayalam Entertainment",NT UAE
+https://mars.streambridge.cloud/ntv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AnandTV.uk@SD" tvg-name="Anand TV" tvg-logo="https://i.imgur.com/5VOPFzs.png" group-title="Malayalam Entertainment",Anand TV
+https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
+#EXTINF:-1 tvg-id="UTV.in@SD" tvg-name="UTV Palakkad" tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Malayalam Entertainment",UTV Palakkad
+https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="JeevanTV.in@SD"  tvg-name="Jeevan TV" tvg-logo="https://jeevannewsonline.com/wp-content/uploads/2023/09/cropped-cropped-jeevanlogo.png?w=77" group-title="Malayalam Entertainment",Jeevan TV
+https://cdn-3.pishow.tv/live/1467/master.m3u8
+#EXTINF:-1 tvg-id="Eagle One"  tvg-name="Eagle One" tvg-logo="https://i.imgur.com/qelJwNi.png" group-title="Malayalam Entertainment",Eagle One
+https://5a1178b42cc03.streamlock.net/8182/8182/playlist.m3u8
+#EXTINF:-1 tvg-id="Swantham.in@SD" tvg-name="Swantham" tvg-logo="https://i.imgur.com/ye6v4GP.png" group-title="Malayalam Entertainment",Swantham
+http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8
+#EXTINF:-1 tvg-id="MCV" tvg-name="MCV" tvg-logo="https://i.imgur.com/g5kXQ9F.png" group-title="Malayalam Entertainment",MCV
+http://cloud.logichost.in:1935/live/mcvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="VBCNews.in@SD" tvg-name="VBCNews" tvg-logo="https://i.imgur.com/SvXCjha.png" group-title="Malayalam News",VBC News
+https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8
+#EXTINF:-1 tvg-id="VCV.in@SD" tvg-name="VCV" tvg-logo="https://i.imgur.com/KbU36xI.png" group-title="Malayalam Entertainment",VCV
+https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
+#EXTINF:-1 tvg-id="Vision.in@SD" tvg-name="Vision" tvg-logo="https://i.imgur.com/YozqNL3.jpg" group-title="Malayalam Entertainment",Vision
+http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
+#EXTINF:-1 tvg-id="WayanadVision.in@SD" tvg-name="WayanadVision" tvg-logo="https://i.imgur.com/yF2C4Dt.png" group-title="Malayalam Entertainment",Wayanad Vision
+https://cloudsavre.in.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="CMalayalamTV.ca@SD" tvg-name="CMalayalamTV" tvg-logo="https://i.imgur.com/rpg0bQA.png" group-title="Malayalam Entertainment",C Malayalam TV
+https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
+#EXTINF:-1 tvg-id="FlowersTVUSA.us@SD" tvg-name="FlowersTVUSA" tvg-logo="https://upload.wikimedia.org/wikipedia/ml/1/1c/Flowers-Onam.png" group-title="Malayalam Entertainment",Flowers TV USA
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
+#EXTINF:-1 tvg-id="KannurVision.in@SD" tvg-name="KannurVision" tvg-logo="https://i.imgur.com/FCXqPer.png" group-title="Malayalam Entertainment",Kannur Vision
+https://stream.logichost.in/kannurvision/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KiteVicters.in@SD" tvg-name="KiteVicters" tvg-logo="https://i.imgur.com/kj4OEsb.png" group-title="Education",KITE Victers
+https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MagnavisionTV.uk@SD" tvg-name="MagnavisionTV" tvg-logo="https://i.imgur.com/mUHixbi.png" group-title="Malayalam Entertainment",Magna Vision
+https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
+#EXTINF:-1 tvg-id="PulariTV.in@SD" tvg-name="Pulari" tvg-logo="https://i.imgur.com/v5urG30.png" group-title="Malayalam Entertainment",Pulari TV
+https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
+#EXTINF:-1 tvg-id="RealNewsKerala.in@SD" tvg-name="RealNewsKerala" tvg-logo="https://i.imgur.com/8hnJuxa.png" group-title="Malayalam News",Real News Kerala
+https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="MalabarNews" tvg-name="MalabarNews" tvg-logo="https://malabarnewschannel.com/wp-content/uploads/2020/10/LOGO.png" group-title="Malayalam News",MalabarNews
+http://cloud.logichost.in:1935/live/malabarnews/chunklist_w1735216622.m3u8
+#EXTINF:-1 tvg-id="Malabar Plus" tvg-name="Malabar Plus" tvg-logo="https://i.imgur.com/WPtoKl0.png" group-title="Malayalam Entertainment",Malabar Plus
+http://cloud.logichost.in:1935/live/mplus/playlist.m3u8
+#EXTINF:-1 tvg-id="KCN" tvg-name="KCN" tvg-logo="https://i.imgur.com/gwSZfLR.png" group-title="Malayalam Entertainment",KCN
+http://kcnsdhlsapp.ylivestream.com/kcnsdapphls/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NVISION" tvg-name="NVISION" tvg-logo="https://i.imgur.com/aRfi4w1.png" group-title="Malayalam Entertainment",N Vision
+https://ipcloud.live/nvision/nvisionhd.m3u8
+#EXTINF:-1 tvg-id="Gosree Vision" tvg-name="Gosree Vision" tvg-logo="https://gosreetv.in/images/logo.png" group-title="Malayalam Entertainment",Gosree Vision
+https://5a1178b42cc03.streamlock.net/8068/8068/chunklist_w131331334.m3u8
+#EXTINF:-1 tvg-id="StarNet" tvg-name="StarNet" tvg-logo="https://play-lh.googleusercontent.com/vz3MiwqdUasG47XUa_suAofpbEPzcJZntHHXgha2yeCXg0OAAV9oQskJnKV6V9PVhw=w480-h960-rw" group-title="Malayalam Entertainment",StarNet
+https://5a1178b42cc03.streamlock.net/8220/8220/chunklist_w631133165.m3u8
+#EXTINF:-1 tvg-id="Citi" tvg-name="Citi" tvg-logo="https://i.imgur.com/CXe6E12.png" group-title="Malayalam Entertainment",Citi
+http://cloud.logichost.in:1935/live/citi/playlist.m3u8
+#EXTINF:-1 tvg-id="AJ Net" tvg-name="AJ Net" tvg-logo="https://play-lh.googleusercontent.com/H7MUgpVs5V_MKxGL7sqs9ER7D5YLa6AjcrohshkxrfU08QP3_yBLOd8o1whwEw4ePg=w240-h480-rw" group-title="Malayalam Entertainment",AJ Net
+https://stream.logichost.in/AJNET/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Network Payannur" tvg-name="Network Payannur" tvg-logo="https://play-lh.googleusercontent.com/jID-JmVFecTZJj873tSf1UHthFxTzZj2dcy3CNp5wniaU_4rl7Z0AQ13bMLzmp-yxo14=w240-h480-rw" group-title="Malayalam Entertainment",Network Payannur
+https://live.skystream.in/live/networkpayyanur/index.m3u8
+#EXTINF:-1 tvg-id="South Vision Kollam" tvg-name="South Vision Kollam" tvg-logo="https://play-lh.googleusercontent.com/aBew5B-0cj9MG3EEPJy8mUydKUOKtppN2pAGqzKKOKvnoVD9WJob4QXdy92wwBp4FYfR=w240-h480-rw" group-title="Malayalam Entertainment",South Vision Kollam
+https://live.skystream.in/live/southvsnklm/index.m3u8
+#EXTINF:-1 tvg-id="New Media" tvg-name="New Media" tvg-logo="https://play-lh.googleusercontent.com/SaZobDSgO9rmgr80t2Z68AwMy6GKz1-E3Hf4O5tnt3hjUeu4gvs8V7xiav-B3-OAFbc=w240-h480-rw" group-title="Malayalam Entertainment",New Media
+https://live.skystream.in/live/newmedia2924/index.m3u8
+#EXTINF:-1 tvg-id="NCV" tvg-name="NCV" tvg-logo="https://i.imgur.com/ltdtvL3.png" group-title="Malayalam Entertainment",NCV
+https://stream.logichost.in:1935/NCV/ncvstream/chunklist_w1596513751.m3u8
+#EXTINF:-1 tvg-id="MathrubhumiNews.in@SD" tvg-name="MathrubhumiNews" tvg-logo="https://i.imgur.com/diQftzP.png" group-title="Malayalam News",Mathrubhumi News
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8
+#EXTINF:-1 tvg-id="JaihindTV.in@SD" tvg-name="JaihindTV" tvg-logo="https://i.imgur.com/NaiA73p.png" group-title="Malayalam News",Jaihind TV
+https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="NewsMalayalam24x7.in@SD" tvg-name="NewsMalayalam24x7" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_MALAYALAM_24X7/images/LOGO_HD/image.png" group-title="Malayalam News",News Malayalam 24x7
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-malayalam-24x7/index.m3u8
+
+# Devotional
+
+#EXTINF:-1 tvg-id="SVBC3.in@SD" tvg-name="SVBC3" tvg-logo="https://yt3.ggpht.com/Uqg8i6C1gw__d0JVhNzA9dX6vzbj-G-MdR4bdjsEP5jNKx_Yc17QCc86Xeknf6uQM_py1Uki=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Devotional",SVBC 3
+https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SVBC4.in@SD"tvg-name="SVBC4" tvg-logo= "https://yt3.ggpht.com/pZU4x_YFGctn7r4sKrTQvgb99XGiAJl3KBmf1Ee5rFkuvRYhHPf0YCbcshtBdFI7rA1J269SwQ=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Devotional",SVBC 4
+https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SVBC.in@SD" tvg-name="SVBC" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mfAUc7DTGQgkazQJiDcL764YmHHKo2gWxxLtAALOIJm4I=s160-c-k-c0x00ffffff-no-rj" group-title="Devotional",SVBC
+https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
+
+# Tamil News
+
+#EXTINF:-1 tvg-id="News18TamilNadu.in@SD" tvg-name="News18 Tamil Nadu" tvg-logo="https://yt3.ggpht.com/wrLMDJVxwbLw_lvrFp16aTKGmRLZdXNrrT0xF9mgljCnZBYK5uJX3fu0TJ2U7EmIx8BP3P8wsQ=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Tami News",News18 Tamil Nadu
+https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="News7Tamil.in@SD" tvg-name="News 7 Tamil" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mBbli8A0yvLlMmketEE-Mftk1c05S4Zhh_urW83cQcz7M=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Tami News",News 7 Tamil
+https://segment.yuppcdn.net/240122/news7/playlist.m3u8
+#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in@SD" tvg-name="Puthiya Thalaimurai" tvg-logo="https://yt3.ggpht.com/tr4c3DtiSxbqXbPCylpjFpveWiZzXjeqXpRPvKVXt-KcbQpyTmBb2pmhtORnj6l1negBysL4=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Tami News",Puthiya Thalaimurai
+https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
+#EXTINF:-1 tvg-id="ThanthiTV.in@SD" tvg-name="Thanthi TV" tvg-logo="https://yt3.ggpht.com/lyUdWpaVvOJQgjI0dfBW29q0PBAFSltmwNX73AYrsbBRt7gFzaALiFzxRYqRWcjhDdQiOSXCog=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Tami News",Thanthi TV
+https://cdn-3.pishow.tv/live/1612/master.m3u8
+#EXTINF:-1 tvg-id="MalaiMurasuTV.in@SD" tvg-name="Malai Murasu TV" tvg-logo="https://yt3.ggpht.com/MYY8qsepbnvmjPstaoFTAtCTjOjWbcsOD1CJuSKH9nkSyP_5tKYxwG-TJQrDRsKvtHIO_R0quQ=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Tami News",Malai Murasu TV
+https://amg17783-amg17783c1-amgplt0173.playout.now3.amagi.tv/playlist/amg17783-amg17783c1-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-id="NewsTamil24x7.in@SD" tvg-name="News Tamil 24x7" tvg-logo="https://yt3.ggpht.com/X2uO0_Bis8CH3IVH2Wa3HZTbR2ilArRjhzDTZQNn11oG9WdIqxFJ275CtF2hRZCmikWdHyv-qA=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Tami News",News Tamil 24x7
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-tamil-24x7/index.m3u8
+#EXTINF:-1 tvg-id="NewsJ.in@SD" tvg-name="News J" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m-IRcF_E93ARycinoBvNoPC_xjo8iVtB3xGOZvx6GgsQ=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Tami News",News J
+https://cdn-3.pishow.tv/live/1279/master.m3u8
+#EXTINF:-1 tvg-id="TamilJanam.in@SD" tvg-name="Tamil Janam" tvg-logo="https://yt3.googleusercontent.com/pNsJVrKDGR9dR7HxY0Dmxra4ey8o-5R4vgG6uCMGmCZqh7r0hTFjxcNh0BybaVE7GBd7Wud-=s160-c-k-c0x00ffffff-no-rj" group-title="Tami News",Tamil Janam
+https://app.ashokadigital.net/app/324ea1b0/index.m3u8
+#EXTINF:-1 tvg-id="DDTamil.in@SD" tvg-name="DD TamilV" tvg-logo="https://yt3.ggpht.com/gOPDl0p0Ssungy3AfKG9MNHeW1QEwRmoFw0_dwDsUulDPE5Hv9nicA3MCjYyzYInzw8kbd5C=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Tami News",DD Tamil
+https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
+
+# Music
+#EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-name="B4UMusic" tvg-logo="https://yt3.ggpht.com/aYX2p4oyclx6Z-6UfYUDhPGyMXP8cEiDuWEjA3KDVl5GD-kLZgvaQSSR38pyJTIztLEzMDo_KA=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Music",B4U Music
+https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+#EXTINF:-1 tvg-id="MusicIndia.in@SD" tvg-name="MusicIndia" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nLdCAaH9x9Vf9sYm4vjY49sOL7PbDxf8dlAU1H5p-49A=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Music",Music India
+https://cdn-2.pishow.tv/live/226/master.m3u8
+#EXTINF:-1 tvg-id="9XJhakaas.in@SD" tvg-name="9XJhakaas" tvg-logo="https://yt3.ggpht.com/CzH6MkGHWTQoFz-IvBjlskbN4WMuhOiNzl76D75w5irObY72wJRGi6SzeSBgoIbcDysnUhCvcrw=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Music",9X Jhakaas
+https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8
+#EXTINF:-1 tvg-id="PublicMusic.in@SD" tvg-name="PublicMusic" tvg-logo="https://yt3.ggpht.com/3Oj4HDzFoNF72g0C6g1ORUsV7wEdNle16f-diZDO5LdN6wSdkwId8w8yvBuolczYvc18nJnb5A=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Music",Public Music
+https://cdn-3.pishow.tv/live/441/master.m3u8
+#EXTINF:-1 tvg-id="9XJalwa.in@SD" tvg-name="9XJalwa" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m6XPXFgtJwZtiGgJ8hAG8uYP64x3rXyAMCZq7vRlBCtss=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Music",9X Jalwa 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
+#EXTINF:-1 tvg-id="9XM.in@SD" tvg-name="9XM" tvg-logo="https://yt3.ggpht.com/a5SfL3aMu1G_MufbVoDv0wPz4gcyn_pYtsR3BAMH08B368gh-ytxzBWgPpdmKyWemwCGF0Ql=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Music",9XM
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
+#EXTINF:-1 tvg-id="Zoom.in@Global" tvg-name="Zoom" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lZEnCMQZz6FfEgDysuhVObO6O972OlqzBOaGwninMVpWk=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Music",Zoom Global
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
+#EXTINF:-1 tvg-id="9XTashan.in@SD" tvg-name="9XTashan" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kexJI9R5fDZRzi__2qcmGUADiHQojIskPxxaxBg1Lr4eo=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Music",9X Tashan
+https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8
+#EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-name="Tunes6" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lNrz8veU2bMJvvPSTLyLivVKBSUPZtgK2wbDLjL8Z8Tg=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Music",Tunes 6
+http://103.140.254.2:3500/live/803.m3u8
+#EXTINF:-1 tvg-id="YRFMusic.in@SD" tvg-name="YRFMusic" tvg-logo="https://yt3.ggpht.com/nf15u1K12VXgBLh5HTf0asDF5Fc36RsUICRi8xY1Cs0QhAL_jmtW07wAUdRzrYDBKwv_KIa09Q=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Music",YRF Music 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="Mh1Music.in@SD" tvg-name="Mh1Music" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mnLRQlPFmJlNk-dzJsHKJ1FVaHXfP1Ny7IFniWjCXkyLY=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Music",Mh 1 Music
+http://103.140.254.2:3500/live/742.m3u8
+#EXTINF:-1 tvg-id="ETVMusic.in@HD" tvg-name="ETVMusic" tvg-logo="https://yt3.ggpht.com/7PtfJUtTuRluY1QWDQIQL_BpVobjwAYbAbWXQ0eOdkqeAFxDEzPfHoDhC_IPEakFNklX7pm-=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Music",ETV Music 
+https://cc-szivnms4rlah6.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szivnms4rlah6/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
+
+# Doordarshan
+
+#EXTINF:-1 tvg-id="Gyandarshan.in@SD" tvg-name="Gyandarshan" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan" tvg-name="Tunes6" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",Gyandarshan 
+https://cdn-6.pishow.tv/live/14/master.m3u8
+#EXTINF:-1 tvg-id="DDArunPrabha.in@SD" tvg-name="Gyandarshan" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Arun Prabha (360p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8
+#EXTINF:-1 tvg-id="DDAssam.in@SD" tvg-name="DDAssam" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Assam
+https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
+#EXTINF:-1 tvg-id="DDBangla.in@SD" tvg-name="DDBangla" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Bangla
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
+#EXTINF:-1 tvg-id="DDBharati.in@SD" tvg-name="DDBharati" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Bharati 
+https://cdn-1.pishow.tv/live/10/master.m3u8
+#EXTINF:-1 tvg-id="DDBihar.in@SD" tvg-name="DDBihar" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Bihar 
+https://cdn-4.pishow.tv/live/35/master.m3u8
+#EXTINF:-1 tvg-id="DDChandana.in@SD" tvg-name="DDChandana" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Chandana
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/3829f99b-4951-4a9d-98c1-dbc3acfe5193/2.m3u8
+#EXTINF:-1 tvg-id="DDChhattisgarh.in@SD" tvg-name="DDChhattisgarh" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Chhattisgarh 
+https://cdn-1.pishow.tv/live/15/master.m3u8
+#EXTINF:-1 tvg-id="DDGirnar.in@SD" tvg-name="DDChhattisgarh" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Girnar 
+https://d2lk5u59tns74c.cloudfront.net/out/v1/558fdb9aebb54bb5bbbf0ced03686148/index.m3u8
+#EXTINF:-1 tvg-id="DDGoa.in@SD" tvg-name="DDGoa" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Goa 
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f91/index.m3u8
+#EXTINF:-1 tvg-id="DDHaryana.in@SD" tvg-name="DDHaryana" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Haryana
+https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8
+#EXTINF:-1 tvg-id="DDHimachalPradesh.in@SD" tvg-name="DDHimachalPradesh" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Himachal Pradesh 
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/afd2e335b0ba40eb9bdf1096118c6ede/index.m3u8
+#EXTINF:-1 tvg-id="DDIndia.in@SD" tvg-name="DDIndia" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD India 
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
+#EXTINF:-1 tvg-id="DDJharkhand.in@SD" tvg-name="DDJharkhand" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Jharkhand
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2c6c5c20-6afe-47c4-934f-a0d7002cb151/2.m3u8
+#EXTINF:-1 tvg-id="DDKisan.in@SD" tvg-name="DDKisan" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Kisan 
+https://cdn-6.pishow.tv/live/9/master.m3u8
+#EXTINF:-1 tvg-id="DDMadhyaPradesh.in@SD" tvg-name="DDMadhyaPradesh" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Madhya Pradesh 
+https://cdn-1.pishow.tv/live/31/master.m3u8
+#EXTINF:-1 tvg-id="DDMalayalam.in@SD" tvg-name="DDMalayalam" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Malayalam
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/2.m3u8
+#EXTINF:-1 tvg-id="DDManipur.in@SD" tvg-name="DDManipur" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Manipur 
+https://d2lk5u59tns74c.cloudfront.net/out/v1/8b75afc6576f450e8f554b6c877681d2/index.m3u8
+#EXTINF:-1 tvg-id="DDMeghalaya.in@SD" tvg-name="DDManipur" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Meghalaya 
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f81bc8d13dd49b484da35988abb8729/index.m3u8
+#EXTINF:-1 tvg-id="DDMizoram.in@SD" tvg-name="DDManipur" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Mizoram 
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/22ee1f87-4ac9-4d6b-9ec4-d5287739b4b4/2.m3u8
+#EXTINF:-1 tvg-id="DDNagaland.in@SD" tvg-name="DDNagaland" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Nagaland 
+https://d2lk5u59tns74c.cloudfront.net/out/v1/29c92e0bef954a6d9b0908d1be29c1f0/index.m3u8
+#EXTINF:-1 tvg-id="DDNational.in@HD" tvg-name="DDNational" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD National HD 
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+#EXTINF:-1 tvg-id="DDNews.in@SD" tvg-name="DDNews" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD News 
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+#EXTINF:-1 tvg-id="DDOdia.in@SD" tvg-name="DDOdia" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Odia 
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8
+#EXTINF:-1 tvg-id="DDPunjabi.in@SD" tvg-name="DDPunjabi" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Punjabi
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/20c8ad14-a158-4a42-8889-e032d070856e/2.m3u8
+#EXTINF:-1 tvg-id="DDSahyadri.in@SD" tvg-name="DDSahyadri" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Sahyadri
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8
+#EXTINF:-1 tvg-id="DDSaptagiri.in@SD" tvg-name="DDSaptagiri" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Saptagiri
+https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8
+#EXTINF:-1 tvg-id="DDSports.in@SD" tvg-name="DDSports" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Sports 
+https://cdn-6.pishow.tv/live/13/master.m3u8
+#EXTINF:-1 tvg-id="DDTamil.in@SD" tvg-name="DDTamil" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Tamil 
+https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
+#EXTINF:-1 tvg-id="DDTripura.in@SD" tvg-name="DDTripura" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Tripura
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/52b998e9510d41c29ad2ceca8ea3d849/index_3.m3u8
+#EXTINF:-1 tvg-id="DDUrdu.in@SD" tvg-name="DDUrdu" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Urdu 
+https://cdn-4.pishow.tv/live/8/master.m3u8
+#EXTINF:-1 tvg-id="DDUttarPradesh.in@SD" tvg-name="DDUttarPradesh" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Uttar Pradesh 
+https://cdn-1.pishow.tv/live/36/master.m3u8
+#EXTINF:-1 tvg-id="DDUttarakhand.in@SD" tvg-name="DDUttarakhand" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Uttarakhand 
+https://cdn-1.pishow.tv/live/17/master.m3u829284
+#EXTINF:-1 tvg-id="@AsianetNews" tvg-name="AsianetNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Asianet_News_Logo.png" group-title="Malayalam News", AsianetNews
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767484713/ei/yVhZaeflNqTeut0Psv7QyQw/ip/172.214.45.194/id/tXRuaacO-ZU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AYUSA3BAvrSb5ridw_4PebGNK8JF2m9oTmTaFE58E-QFWvEYHahb_Rc9YTaJ604MmJu2GeTOsg/spc/wH4Qq29T_9NeV6carPXbgLixU6HhgW7JNFixFzJC1h5xZik9Zgx0-ftTCXJNrAvgm6U/vprv/1/go/1/ns/PNo_JB3kSaE3Wl2LQd8KiqQR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/uQWcqTejOc1Xg0Rhm8/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgd_CiNO01MpNrFzXJIxng8nAbWoumL5UkGcZ8q06IzjACIBXXpKQp7gjSsX5AA4VeeqNoVRkbAfO-MGFDeVjg8Dqn/file/index.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+#EXTINF:-1 tvg-id="@reporterlive" tvg-name="Reporter" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Reporter_TV_2023.jpg" group-title="Malayalam News", Reporter
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767484716/ei/zFhZaZeuFYaLr9gPpYuX2AU/ip/172.214.45.194/id/nObUcHKZEGY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/siu/1/bui/AYUSA3D7OgYMdPawFHJSsj8a-nVOmlT6cXks-QbnnvtaVOJrglsNtGZyOcce-yZhdTz4kbAVtw/spc/wH4Qq6zxGCuB0YwD8nWMDL9VfhYgsMYQRJy_zSlwb-RMOCmQ9ixaO-6ciPecN0LCNQ8/vprv/1/go/1/ns/c_KefN9NkeaUKFvHjdolwpgR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/gzpuKyOR6LMxaNwPY1/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMSqKHYF6LGljtulNCzZ2EZNpHu6sSw-dhYaDuyMtGl0AiBBNwkI56SRKZHpMyEnLloVl_7qanzo9xczjhFx61L_Kg%3D%3D/file/index.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+#EXTINF:-1 tvg-id="@24OnLive" tvg-name="24 News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/TwentyFour_News_logo.png" group-title="Malayalam News", 24 News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767484718/ei/zlhZafytJtPhkucP8cXv6Qo/ip/172.214.45.194/id/1wECsnGZcfc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AYUSA3BG9N2fqWiL14bjM3vjkGR375w60vSzViYsNFQV0cC7E3llceuZpNKFa2KExkxCMPXZYw/spc/wH4Qq0axWGRPPuakzl_ls0FGT9tj6UHs-X1lEaaVKhGVOFZ7M-FGtqYOMoD0ZHP6EVM/vprv/1/go/1/ns/elqGHx1rZihdaUD3e4RLnwsR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/SL0-FF4VZHYATxPWKG/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgeuirGeGp5v5q8r5STt94pptFtS8ziE80HPTguYTuOigCICOrm_HaxWWggkjgg6yHj-hGNyjDqbIAOukXLM5Pyf43/file/index.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+#EXTINF:-1 tvg-id="@manoramanews" tvg-name="Manorama News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Manorama_News_Re-branded_logo.png" group-title="Malayalam News", Manorama News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767484721/ei/0FhZaeWzO7elkucP0KKVwQE/ip/172.214.45.194/id/tgBTspqA5nY.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AYUSA3BgnXLis7P8ohXxiPq3brI0-V4RIiidIgjc0ljXb6mRshrDs0QEBdhAxkDJn4kPLFdu2A/spc/wH4Qq2RaDrSNtocOvIj9aPbO7HHAfcgBg32EwcCkOkU-s3h8U3vUELa_JQCAPm7pv6M/vprv/1/go/1/ns/4yphZSsQw2sHt95c2_FzZRgR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/1A69WIFy64mCLAH-lX/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgNgUGyUjml2hycB7u3H833r7RUMFe_AhOEMdTT0p1degCIByjf8kh2ivuAbWeTFMABY2RSEoWwbITUmCIGKznX6mT/file/index.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+#EXTINF:-1 tvg-id="@kairalinews" tvg-name="Kairali News" tvg-logo="https://yt3.ggpht.com/oYCJSNCRQMinymACQmOVjkQwTvjTXWWAJBwc-M1e00-B2DNgNyZFSrNhd0Lu6oaAKK_V5ZFqwl4=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Malayalam News", Kairali News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767484723/ei/01hZabatBcDEkucP5amb8Q8/ip/172.214.45.194/id/yiiqRHY1Bl8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/siu/1/bui/AYUSA3AStRV84EhgR0mGtfrcECX8ZwZ7UmcUY0QoieMJ1X_OG3f9Praj4irlRbc6z3QisopppQ/spc/wH4Qq7gT3ikR-D90r5QjWoWLGZ-epKtRp6J8FfbDohfWgJf9xLtelyMe4u1Ej5De1do/vprv/1/go/1/ns/cZ6IWUAzGZUwcO60CgFgjYMR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/4UG0pJYeNgn0kXyBHK/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgS52zBRtWdvaFycarTGdqdl1a6ibJ9k-wSZlyp3sd6n0CID37OAU6-mDTYwmtSugrN-Cc-_RHfFJ6ZkEn7B3ffmkm/file/index.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+#EXTINF:-1 tvg-id="@MediaoneTVLive" tvg-name="Media one" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nFqgCQfk09vEWUTJ8YLJqTaahT-cqdX1fP8-rv7ZI5Kos=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Malayalam News", Media one
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767484725/ei/1VhZacmYNI2j0_wP9tbUwAI/ip/172.214.45.194/id/-8d8-c0yvyU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AYUSA3AQKrk7shb_A6rTSrZ5gon-Sj6uuorEL1fHNniLDPxpgExfKzjhPLm4HMHo7EYHgBM_6g/spc/wH4Qq5-pLXsJRm5d1ET0KYPz-i4YwpGFKMwJaZDZLFzpI6SKNr7Ksq_Md9N_u0sfMxU/vprv/1/go/1/ns/-15qZPq3q99ml0STFPpMmA8R/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/BZdxxdbgwPctQf-pmK/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgJVIBAbltRYToqZO5CdVV1PIYSFLp8xmpQ3Lh9ZgN1ZYCIQDNmHmJV8kYfMnNNbMn4uGS0Rp3q_w2TYbIWtPxo6pUyw%3D%3D/file/index.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+#EXTINF:-1 tvg-id="@News18Kerala" tvg-name="News18Kerala" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_noEGYn5NGuAElTdnJcp3vAZJYN5bM9ZDjFa7OfVxq2xw=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Malayalam News", News18Kerala
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767484727/ei/11hZafWDLLmHr9gPnaiu6A8/ip/172.214.45.194/id/5qq0G7mCCqA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/siu/1/bui/AYUSA3C2puyfat5J1aJ_mlDBFIE_zCtMLmbGWPCyHcwD4FDfFOp-QGSMVqGjbilUetx5HRERQw/spc/wH4Qq5GdI4G4hU2CLdcRYANP8lpr7EPpa__fYVy9Gq64wA9z6RXGZM50r4J95tF5jTg/vprv/1/go/1/ns/nCiOJK32gJppnWmTAuP7YrsR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/WD2V8LHkJ5ILnh534z/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgQFMkwVdoqTqNvZ-Dhbv-GlP2kPVTSwn7rbOPei2J1oQCIQDSSRaXQoaMlWU2qhbtPfUwu76lzBesiEo36L2B6Epdsg%3D%3D/file/index.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+#EXTINF:-1 tvg-id="@tvjanam" tvg-name="Janam tv" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nCmUp4mMxnlpluV1MH4km_K8rR8fHG6En1jdFfpBImmBI=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Malayalam News", Janam tv
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767484729/ei/2VhZaeP3Mp-l0_wPqtaO2QI/ip/172.214.45.194/id/uymcMRU0M-k.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/siu/1/bui/AYUSA3BCNiE7ugw__ePd_UmOtnpViPRKr9foI2eyJkzh1Ev6wF7sTQIX_StrNAVrE6__3eAr2A/spc/wH4QqxDwT4FZY-dKLhmTdWK6xu1FGA8USpM_4m4P0-yjOB1CdNPoyBKMq2MIKFocgsA/vprv/1/go/1/ns/2TeBFGpYplX8_w6SalZQXzwR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/CVCVVOHCtqpWKDKqk3/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJl2pXRDrv7_xxllv7icsACy9W92zStA5Qwv-fBL48lUAiEAuYH0b8mbgk5JIJYbtPgKUf1yMNSiDsx9xsdySWAEI_4%3D/file/index.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+#EXTINF:-1 tvg-id="@AmritaNews" tvg-name="AmritaNews" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mFo01pc4shwfrkzIsiiXijPIu6VTdIwpAQ_ADY-aNAEg=s160-c-k-c0x00ffffff-no-rj" group-title="Malayalam News", AmritaNews
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767484732/ei/3FhZaZi1Fa6-j-8P-LWsgQo/ip/172.214.45.194/id/4RuLAuotvhg.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/siu/1/bui/AYUSA3A_CgYkxdz_PzO1z5KR0lW5f0wVIOdkN1cDOUZfrerj72h7DxoBXlfxXcSdcLVOq48ceg/spc/wH4Qq1iPSB6mw4peqJSK_yRZ7t8RTyRwTd3QQvA3fj1ehQeMj5yjrjdfMv5LuQJemdY/vprv/1/go/1/ns/1OrCdBiUQXkNpc2ZnGJb08QR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/9vNLqsQj6URafU2r9U/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgInf-qnHi50PyP96X9BdLiwoDUs7BLOF95Aw1rk5kG8MCIQDpVGYVdrxJ7zE54akMsJVT-WuoyurK9Op3rLKJQFWalA%3D%3D/file/index.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+#EXTINF:-1 tvg-id="@keralavisionnews24x7" tvg-name="keralavisionnews" tvg-logo="https://yt3.googleusercontent.com/v4Dxo5UtSrqmq1pRj7r9y8sIBKg_nOrOZVYwUJ9ZmJcB4YtCxBjNyxmU1I1bBbwtm_Lq-u4D=s160-c-k-c0x00ffffff-no-rj" group-title="Malayalam News", keralavisionnews
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767484734/ei/3lhZae6tHM220_wPoNPRsQY/ip/172.214.45.194/id/3446A6FzW3o.43/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AYUSA3DL0rQH730bIIcQC_YlJTNcmukNB8Cu59aofYEfYDJc_Wm1cerB039uItIaXdlEflOnvQ/spc/wH4Qq8PHPjbJu8lcExF-GmI-I4PHM6-0fAM_djedrmuKZxxzDVV1eYFEW3hc_mJxXKU/vprv/1/go/1/ns/D1G-b4HJaGAgmXzvunTGjTUR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/4XL3e7Bp8I2PlUE61t/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgMtazz-O-3WCMeMoUwKGDBbKZKcb-zAjsaqImkwbklHACIQDvmESlcDTFJAhie658Y8angAG5rM-qTJNhbq0AFXbhtw%3D%3D/file/index.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+#EXTINF:-1 tvg-id="@RepublicWorld" tvg-name="Republic" tvg-logo="https://yt3.googleusercontent.com/FrAieGazV-tntIEPk5M9HbnKOSaWr1UKGBucScJyiHlLNBNQq4H41yWFGCKUDMptraHC0NP7UvA=s160-c-k-c0x00ffffff-no-rj" group-title="English News", Republic
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767484736/ei/4FhZaam3MoC7kucP-OmrsAM/ip/172.214.45.194/id/aNxxnJmipus.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/siu/1/bui/AYUSA3AWEh5OLUCI-6auhvPrSXWSeaJPrJcnI48LdqbNKO8a4RYjjVRag78hxuu7jDHWdLPxSA/spc/wH4Qq6uRz7Dr6a-xS_2CSlG-YapC2V9CMKHbZZbMtMIzqhTYuoYKHLTKWLIJCib_rvE/vprv/1/go/1/ns/2Z_0EtCmNRJCSxfQTwrizDkR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/WTRYFrfgA995zHwHBM/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgE1G2JfEbTzkLDOJyufn5D36905UnlP5Al6T5R0_jV94CIBvQBXm2pFKTtVTLoj12ZYmWr8yuwY1XcQWS91ZN6Y2c/file/index.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+#EXTINF:-1 tvg-id="@indiatoday" tvg-name="India Today" tvg-logo="https://yt3.googleusercontent.com/T2CFyCYOvSqnAJZL2HTDrLw-9Z48j97WXjHn41HoPXZ-ZaeH02WAFSBe2cDKRWNcjZR5lhtKcg=s160-c-k-c0x00ffffff-no-rj" group-title="English News", India Today
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767484739/ei/41hZacnQHJT3zLUPjNPriQk/ip/172.214.45.194/id/xEpaClEF7Mo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AYUSA3DWa9duNgZ4K7vatRHgJM9tFFeMFHt-DcnnxLA84axDyaqjyOUJBsqVcT-DU2kod7vh0A/spc/wH4Qq4pmqVdumt1vkmYaqQvn0MvqMj4pzD1ccXspv9hJzSD3j_Mi-b2t6AlOQ5wTpZ0/vprv/1/go/1/ns/CxvlfaHU5k9tLvPHrdwLUosR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/6DyEH5ADDk9aJQQsRC/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgAmt1vPcPB5DZ9lKEFblWDZOgXOk4gTg-8W_80DY7-8oCIQDUjPxRA5vdWu88xtHSJrEdr5MWRTedwLsm4ZGk1YnrtQ%3D%3D/file/index.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+#EXTINF:-1 tvg-id="@NDTV" tvg-name="NDTV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lcj8idHNsaTiTITY2vWQD6gaxZ6ITkpQPaLVskaDMyiml9=s160-c-k-c0x00ffffff-no-rj" group-title="English News", NDTV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767484741/ei/5VhZadehOfGKr9gP4bOO6Q8/ip/172.214.45.194/id/t8o98lz2zQk.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/siu/1/bui/AYUSA3AfF5QJLZQkMp0o-pmDbVa1a_5YWd9KFkWnCeqlk8gYuIAsHWncHXQf1yhkEZyQD_-ZWg/spc/wH4Qq6WeFuOyPSVCRM-HzdzmVfClHbrbByXfqDgLvyIlUzgeJiqWUmHIc_hAxjHWjFo/vprv/1/go/1/ns/P5JCEutmG8QG3zbd4UtYNI0R/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/bv7YqIAtLqr85b__Gh/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgZPEvAGgtfaFnWfFd9GfRWt2cOa0pFwwoBUGDKEz2l0UCIAT7TfPxwVI_MpavRPd1CqSckhQuekDpD6ucyYFo_zsx/file/index.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+#EXTINF:-1 tvg-id="@WION" tvg-name="WION" tvg-logo="https://yt3.googleusercontent.com/evxeFzRem76hjPRh_S_B5MvjNhl4yKjSrIzmvwFx3nyEWHBOPHA4jTum6Yys3HRR0IvYmWud=s160-c-k-c0x00ffffff-no-rj" group-title="English News", WION
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767484744/ei/6FhZacqYGZWa0_wPgrCJiQY/ip/172.214.45.194/id/Pq7smKx-BKw.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/siu/1/bui/AYUSA3C3jr4mAMk11EQqP6wETC3yfJWLgMfQhTQEApA9H8VBGKFTDnbudT0-v5XlLptsdeYeOg/spc/wH4Qqx-_T5Av2FIlqMoqSwVX9h5YlNFzmOHNoH3tE97IRmiW8Fv0L8fox5POXWe6Sto/vprv/1/go/1/ns/oRYMY4xKD1PlT9zxtdZBko8R/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/tXJPTnUmIhsdOZKTqI/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgejMlsYM0tdYZy1NxJ-SYN2TID98zTQtgAInRaMPB_QYCIQCL6kjVVOrxPsHSFqnAeE_LaE_bzuHQjG0lS2eV1eRioA%3D%3D/file/index.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+#EXTINF:-1 tvg-id="@aljazeeraenglish" tvg-name="AL Jazeera" tvg-logo="https://yt3.googleusercontent.com/TEkAt4v2DTqLiU_0pmLza5ZZndnaUXOjVuAFthuaGvwGyCYpO4H85KXOBxdMzrJ8cZu2DoECRA=s160-c-k-c0x00ffffff-no-rj" group-title="English News", AL Jazeera
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767484746/ei/6lhZaZCaI8eZ0_wP0Z6VmQ4/ip/172.214.45.194/id/gCNeDWCI0vo.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AYUSA3CCzD0r8N4jHwCOGzymyodB1EJwmI-ljCq5QELmD1z5aXcZZEvsGbHgBZQ7NKUUFmO8dQ/spc/wH4Qqzp6KoeyebkWMVOZd-63VXkRTQqLxybIhzyWaMPg_hmob2bWQkvhjjue1KOKfE0/vprv/1/go/1/ns/yTnAdmsKYBxNu4K3WIBoGg4R/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/CqV0xwG9NS98nc8FWo/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgEWOUHUA9zBuYz-SXdHRCqT8t401B91Jx0s-hS8ByRQ8CIAwGYp7qJXSTW6Uc5fnKWeW6oa15Jo-QTgHnAtRCzR4u/file/index.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
